@@ -1,5 +1,5 @@
-CREATE TABLE [dbo].[demo] (
+CREATE TABLE demo (
 
-	[id] int NULL, 
-	[name] varchar(50) NULL
+	id int NULL, 
+	name varchar(50) NULL
 );
